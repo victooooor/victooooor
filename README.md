@@ -1,4 +1,4 @@
-<div align="center" style="display: inline_block; margin: 30px 60px;"><br>
+<div align="center" style="display: inline_block; margin: 30px 80px;"><br>
 
   <img align="center" alt="Docker" height="50" width="50" title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
   
